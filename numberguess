@@ -4,7 +4,7 @@ import sys
 count = 4
 get_B = 0
 get_num_times = 0
-x = 0
+
 
 #檢查輸入
 while True:
